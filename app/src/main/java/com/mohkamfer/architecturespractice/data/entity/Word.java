@@ -1,4 +1,4 @@
-package com.mohkamfer.architecturespractice.data;
+package com.mohkamfer.architecturespractice.data.entity;
 
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
