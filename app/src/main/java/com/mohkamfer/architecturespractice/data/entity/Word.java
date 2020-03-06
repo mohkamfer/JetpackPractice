@@ -11,4 +11,10 @@ public class Word {
     @ColumnInfo(name = "content")
     @NonNull
     public String content;
+
+    public Word () {}
+
+    public Word (String word) {
+        this.content = word;
+    }
 }
